@@ -1,0 +1,53 @@
+[
+    {
+        "nombre": "Casa Jazmín",
+        "direccion": "Floresta 26 Av. Tulipán",
+        "habitaciones": 3,
+        "baños": 4,
+        "superficie": "180mt²",
+        "renta": 19000,
+        "evaluacion": 4.3,
+        "imagen": "https://www.inmuebles24.com/propiedades/casa-en-renta-italia-providencia-guadalajara-62474998.html#&gid=1&pid=1"
+    },
+    {
+        "nombre": "Casa Patria",
+        "direccion": "Francisco I. Madero 786 Av. Revolución",
+        "habitaciones": 5,
+        "baños": 6,
+        "superficie": "340mt²",
+        "renta": 42000,
+        "evaluacion": 4.5,
+        "imagen": "https://www.airbnb.mx/rooms/22389553/photos/425136264?federated_search_id=6cdb721d-714e-4c4b-9282-0df5c64b946b&source_impression_id=p3_1639708187_6fyPtcYn6rrEezKT&guests=1&adults=1"
+    },
+    {
+        "nombre": "Las Olas",
+        "direccion": "Marea #231 Av. Del Mar",
+        "habitaciones": 2,
+        "baños": 3,
+        "superficie": "140mt²",
+        "renta": 30000,
+        "evaluacion": 4.7,
+        "imagen": "https://www.inmuebles24.com/propiedades/nueva-y-hermosa-casa-en-chapalita-con-recamara-en-62862814.html#&gid=1&pid=1"
+    },
+    {
+        "nombre": "Residencia Palmeras",
+        "direccion": "Girasol #33 Vista Hermosa",
+        "habitaciones": 4,
+        "baños": 5,
+        "superficie": "1250mt²",
+        "renta": 78000,
+        "evaluacion": 4.9,
+        "imagen": "https://www.inmuebles24.com/propiedades/residencia-en-renta-prados-providencia-62319567.html#&gid=1&pid=1"
+    },
+    {
+        "nombre": "Casa Magistral",
+        "direccion": "Reino Unido #45 Av. Europea",
+        "habitaciones": 6,
+        "baños": 8,
+        "superficie": "400mt²",
+        "renta": 30000,
+        "evaluacion": 4.5,
+        "imagen": "https://www.inmuebles24.com/propiedades/propiedad-en-renta-para-fines-comerciales-excelente-61540148.html#&gid=1&pid=1"
+    },
+
+]
