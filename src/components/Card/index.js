@@ -1,10 +1,56 @@
 import React from "react";
-import { Text } from 'react-native';
+import { ScrollView, Text } from 'react-native';
+import { Container } from './styled';
 
-export const Card = (props) => {
+export const Card = (propertiesList) => {
+
+//    const propertiesDisplay = propertiesList.map((item) => {
+//        return(
+//            <ItemContainer>
+
+  //          </ItemContainer>
+  //      )
+    //})
+
+
     return (
-        <>
-            <Text> Card </Text>
-        </>
+        <Container>
+            
+            <ItemContainer>
+                <ImageContainer>
+                    <PropertyImage />
+                    <IconContainer>
+                        <StarIcon />
+                        <PunctuationText> </PunctuationText>
+                    </ IconContainer>
+                </ImageContainer>
+
+                <DetailContainer>
+                    <TitleText> </TitleText>
+
+                    <RowContainer>
+                        <IconImage />
+                        <AddressText> </AddressText>
+                    </RowContainer>
+
+                    <RowContainer>
+                        <IconImage />
+                        <DetailText ></DetailText>
+
+                        <IconImage />
+                        <DetailText> </DetailText>
+
+                        <IconImage />
+                        <DetailText></DetailText>
+                    </RowContainer>
+
+                    <RowContainer>
+                        <PriceText> </PriceText>
+                        <HeartIcon />
+                    </RowContainer>
+                </DetailContainer>
+
+            </ItemContainer>
+        </Container>
     );
 };
